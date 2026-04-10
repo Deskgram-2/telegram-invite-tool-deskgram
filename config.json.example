@@ -1,0 +1,23 @@
+{
+  "module": "invite",
+  "target": "https://t.me/example_group",
+  "threads": 6,
+  "accounts_per_run": 8,
+  "limits": {
+    "users_per_account": 20,
+    "global_users_limit": 150
+  },
+  "delays": {
+    "between_invites_sec": [40, 90]
+  },
+  "safety": {
+    "max_flood_wait_sec": 600,
+    "switch_account_on_flood_wait": true,
+    "verify_addition": true,
+    "leave_after_finish": false
+  },
+  "source": {
+    "type": "user_list",
+    "file": "targets.txt"
+  }
+}
