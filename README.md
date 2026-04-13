@@ -33,6 +33,14 @@
 4. Включите нужные защитные параметры.
 5. Назначьте аккаунты и запустите задачу.
 
+## Что часто идет до и после инвайта
+
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если сначала нужно собрать релевантную базу пользователей;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если требуется подготовить и сгруппировать аккаунты под задачу;
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram), если важна устойчивая инфраструктура под нагрузку;
+- [Вступление в группы](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если рядом идут аккаунтные сценарии роста и активности;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если нужно отслеживать запуски, ошибки и общий прогресс.
+
 ## Интерфейс модуля
 
 ### Главный экран
@@ -69,6 +77,9 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
 - [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Вступление в группы](https://github.com/Deskgram-2/telegram-join-groups-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
