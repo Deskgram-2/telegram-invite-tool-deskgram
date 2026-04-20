@@ -1,15 +1,15 @@
-# Инвайт в Telegram через Deskgram 2
+﻿# Инвайт в Telegram через Deskgram 2
 
 ![Invite Main](assets/screenshots/invite__main__ru.png)
 
 `Инвайт` — это модуль Deskgram 2 для массового приглашения пользователей в Telegram-группы и каналы. Он помогает масштабировать работу по готовой базе, контролируя потоки, лимиты, FloodWait, верификацию и безопасность выполнения.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite&lang=ru)
 
 Если хотите сначала понять, подходит ли вам этот сценарий, откройте веб-превью: так проще оценить интерфейс, сравнить модуль с соседними разделами и только потом переходить к установке и настройке.
 
@@ -164,4 +164,5 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Сайт Deskgram 2](https://deskgram2.com/)
 - [Telegram-бот Deskgram 2](https://t.me/DG2welcomebot)
-- [Web preview](https://deskgram2.com/web-preview)
+- [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
+
